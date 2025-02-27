@@ -1,0 +1,9 @@
+Üst kısımdaki metin kutusuna üretmek istediğiniz metnin ilk kelimelerini yazın
+"Metni Üret" butonuna tıklayın
+Alt kısımdaki metin kutusunda GPT-2 tarafından üretilen metni göreceksiniz
+Program GPT-2 modelini kullanarak yazdığınız metni devam ettiriyor. Metin üretimi sırasında şu parametreleri kullanıyoruz:
+max_length=50: En fazla 50 token uzunluğunda metin üretir
+temperature=0.7: Yaratıcılık seviyesi (0.7 orta seviye bir yaratıcılık sağlar)
+top_p=0.95: Kelime seçiminde çeşitlilik sağlar
+top_k=50: Her adımda en olası 50 kelime arasından seçim yapar
+Programı test etmek ister misiniz? Herhangi bir sorun yaşarsanız veya başka bir özellik eklemek isterseniz bana söyleyebilirsiniz.
